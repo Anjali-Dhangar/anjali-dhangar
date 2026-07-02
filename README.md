@@ -1,16 +1,16 @@
-## Hi there 👋
-Author - Anjali Dhangar
-<!--
-**Anjali-Dhangar/anjali-dhangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Anjali Dhangar
 
-Here are some ideas to get you started:
+## About Me 
+ - Learning Frontend  Web Development 
+ - HTML, CSS,JavaScript
+ - Looking for Frontend Internship
+   
+## Projects
+ - Portfolio Website
+ - To-Do List App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+ - HTML
+ - CSS
+ - Javascript
+ - GitHub
